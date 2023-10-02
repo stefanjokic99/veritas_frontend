@@ -1,0 +1,80 @@
+body {
+  background-color: #EAEAEA !important;
+}
+.ui.inverted.top.fixed.menu {
+}
+
+.react-calendar {
+  width: 100%;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgba(34, 36, 38, .15);
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+/*home page styles*/
+
+.masthead {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+  margin-left: 0.5em;
+}
+
+.masthead h1.ui.header {
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+/*end home page styles*/
+
+.auth-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-form {
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 32px;
+  background-color: transparent;
+  padding: 50px !important;
+  width: 30vw;
+}
+.glass-effect {
+  background: linear-gradient(
+    135def,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  );
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.w-80 {
+  width: 80% !important;
+}
+.text-center {
+  text-align: center;
+}
+
+.margin-auto {
+  margin: auto !important;
+}
+
+.row {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
