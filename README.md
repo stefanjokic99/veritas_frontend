@@ -20,7 +20,7 @@ To successfully run this project, you need to have the following tools already i
 1. Clone the "veritas_frontend" repository to your computer:
 
    ```bash
-   git clone https://github.com/yourprofile/veritas_frontend.git
+   git clone https://github.com/stefanjokic99/veritas_frontend.git
 
 2. Navigate to the project directory:
    ```bash
